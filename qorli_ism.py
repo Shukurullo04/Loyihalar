@@ -1,3 +1,4 @@
+# Bunda siz ismingizni qor yordamida chiroyli chiqadi va bu kod tushunishga juda oson kod.
 ism=input("Ismingizni kiriting: ")
 n=ism.lower()
 q="❄️"
